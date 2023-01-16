@@ -2,13 +2,13 @@
 ## __1.Простейшие алгебраические понятия__
 | английский | немецкий |
 | --------| ---------- |
-|algebra – алгебра| die Algebra - алгебра 
-|number - число|die Zahl - число
-|percent - процент|das Prozent - процент
-|negative - отрицательный|negativ - отрицательный
-|positive - положительный|positiv - положительный
-|odd numbers – нечетные числа|ungerade Zahlen - нечетные числа
-|even numbers – четные|gerade - четные
+| algebra – алгебра | die Algebra - алгебра 
+ |number - число | die Zahl - число
+| percent - процент | das Prozent - процент
+| negative - отрицательный | negativ - отрицательный
+| positive - положительный|positiv - положительный
+| odd numbers – нечетные числа|ungerade Zahlen - нечетные числа
+| even numbers – четные|gerade - четные
 |divide – делить|teilen/dividieren – делить
 |division – деление|die Division – деление
 |dividend - делимое|der Devidend - делимое
